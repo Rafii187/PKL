@@ -1,0 +1,2 @@
+# laravel-rekap-kekurangandankelebihan-guruasn
+ Rekapitulasi ANALISIS DATA GURU ASN PER MATA PELAJARAN PADA  SEKOLAH MENENGAH PERTAMA  PADA DINAS PENDIDIKAN
